@@ -1,4 +1,4 @@
 lista
 maru
 bere
-numa
+num@
